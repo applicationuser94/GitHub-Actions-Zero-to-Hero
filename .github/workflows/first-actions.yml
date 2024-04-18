@@ -1,4 +1,3 @@
-#This is new comment
 name: My First GitHub Actions
 
 on: [push]
